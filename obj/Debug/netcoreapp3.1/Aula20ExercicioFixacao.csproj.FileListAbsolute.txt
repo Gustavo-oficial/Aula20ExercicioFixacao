@@ -1,0 +1,13 @@
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula20ExercicioFixacao\obj\Debug\netcoreapp3.1\Aula20ExercicioFixacao.csprojAssemblyReference.cache
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula20ExercicioFixacao\obj\Debug\netcoreapp3.1\Aula20ExercicioFixacao.csproj.CoreCompileInputs.cache
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula20ExercicioFixacao\obj\Debug\netcoreapp3.1\Aula20ExercicioFixacao.AssemblyInfoInputs.cache
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula20ExercicioFixacao\obj\Debug\netcoreapp3.1\Aula20ExercicioFixacao.AssemblyInfo.cs
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula20ExercicioFixacao\bin\Debug\netcoreapp3.1\Aula20ExercicioFixacao.exe
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula20ExercicioFixacao\bin\Debug\netcoreapp3.1\Aula20ExercicioFixacao.deps.json
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula20ExercicioFixacao\bin\Debug\netcoreapp3.1\Aula20ExercicioFixacao.runtimeconfig.json
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula20ExercicioFixacao\bin\Debug\netcoreapp3.1\Aula20ExercicioFixacao.runtimeconfig.dev.json
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula20ExercicioFixacao\bin\Debug\netcoreapp3.1\Aula20ExercicioFixacao.dll
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula20ExercicioFixacao\bin\Debug\netcoreapp3.1\Aula20ExercicioFixacao.pdb
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula20ExercicioFixacao\obj\Debug\netcoreapp3.1\Aula20ExercicioFixacao.dll
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula20ExercicioFixacao\obj\Debug\netcoreapp3.1\Aula20ExercicioFixacao.pdb
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula20ExercicioFixacao\obj\Debug\netcoreapp3.1\Aula20ExercicioFixacao.genruntimeconfig.cache

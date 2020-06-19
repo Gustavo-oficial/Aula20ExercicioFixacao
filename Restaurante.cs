@@ -6,12 +6,12 @@ namespace Aula20ExercicioFixacao
 
         public string NomeFantasia { get; set; }
 
-        public Restaurante(){
-
+        public Restaurante(string _nomefant){
+            this.NomeFantasia = _nomefant;
         }
-        public Restaurante(string _nomefantasia, string _endereço){
-            this.NomeFantasia = _nomefantasia;
-            this.Endereço = _endereço;
+
+        public string MostrarDados(){
+            return $"Restaurante: {NomeFantasia} \n {Endereço}";
         }
     }
 }

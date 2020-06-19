@@ -5,14 +5,13 @@ namespace Aula20ExercicioFixacao
         public string Nome { get; set; }
 
         public string EndereçoAtual { get; set; }
-        
-        public Cliente(){
 
+         public Cliente(string _nome){
+            this.Nome = _nome;
         }
 
-        public Cliente(string _nome, string _endereçoatual){
-            this.Nome = _nome;
-            this.EndereçoAtual = _endereçoatual;
+        public string MostrarDados(){
+            return $"Nome: {Nome} \n Endereço: {EndereçoAtual}";
         }
     }
 }
